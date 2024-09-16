@@ -1,0 +1,8 @@
+- projectName: Test
+  projectKey: aasbd
+  mainBranch: main
+  qualityGate: Test
+  qualityProfiles: 
+  - name: Test
+    language: py
+    parent: "Sonar way"
