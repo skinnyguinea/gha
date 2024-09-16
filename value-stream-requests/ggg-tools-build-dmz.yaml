@@ -6,3 +6,5 @@
   - name: Test
     language: py
     parent: "Sonar way"
+    child: Testchild
+    
